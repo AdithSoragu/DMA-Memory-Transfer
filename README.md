@@ -19,19 +19,7 @@ The project is designed for:
 
 ---
 
-## Software Used
-- Keil µVision
-- Embedded C Language
 
----
-
-## Project Type
-Simulation Only (No Hardware Required)
-
----
-
-## Working Principle
-The program simulates DMA functionality by automatically copying data from the source array to the destination array using a transfer function.
 
 ### Data Flow
 Source Memory → Destination Memory
