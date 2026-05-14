@@ -1,0 +1,22 @@
+unsigned int source[5] = {10,20,30,40,50};
+unsigned int destination[5];
+
+void DMA_Transfer(void);
+
+int main()
+{
+    DMA_Transfer();
+
+    while(1);
+
+}
+
+void DMA_Transfer(void)
+{
+    int i;
+
+    for(i = 0; i < 5; i++)
+    {
+        destination[i] = source[i];
+    }
+}
