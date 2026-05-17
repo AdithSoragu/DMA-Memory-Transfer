@@ -1,5 +1,11 @@
 # DMA Memory Transfer Simulation Using Keil
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Embedded C-blue">
+  <img src="https://img.shields.io/badge/Simulation-Keil-green">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+</p>
+
 ## Overview
 This project demonstrates a simple DMA (Direct Memory Access) memory transfer simulation using Embedded C in Keil µVision. The program transfers data from a source array to a destination array and verifies the transferred data using the Watch Window in Keil.
 
